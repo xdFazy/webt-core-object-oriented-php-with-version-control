@@ -1,0 +1,20 @@
+body {
+    background-color: lavenderblush;
+    opacity: 0.7;
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    color: lightcoral;
+}
+
+.boxaußen{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: darkolivegreen;
+}
+
+.boxeinzeln{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
