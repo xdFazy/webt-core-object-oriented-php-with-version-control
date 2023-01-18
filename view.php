@@ -5,14 +5,14 @@
         <link rel="stylesheet" href="stylesheet.css">
     </head>
     <body>
-        <h1>DBA's Trailer Site</h1>
+        <h1>Video Collection</h1>
         <article>
             <?php
 
             require "php/video.php";
 
-            $ytSrc = "https://www.youtube.com/embed/dQw4w9WgXcQ";
-            $ytTitle = "Rick Astley - Never Gonna Give You Up (Official Music Video)";
+            $ytSrc = "https://www.youtube.com/watch?v=_Ko05tWabzo";
+            $ytTitle = "THE ORAL CIGARETTES";
 
             $yt = new YouTube($ytSrc, $ytTitle);
 
@@ -27,10 +27,10 @@
 
             echo "<br>";
 
-            $vmSrc = "https://player.vimeo.com/video/761135822?h=a2ab882567&color=8f090d&title=0&byline=0&portrait=0&badge=0";
-            $vmTitle = "ARTofGRIND";
+            $vmSrc = "https://vimeo.com/236357509";
+            $vmTitle = "Random Loops of 2017";
 
-            $vm = new Vimeo($vmSrc, $vmTitle);
+            $vm = new Vimeo($vmSrc, $vmTitle); //var mit src und title
 
             for ($i = 0; $i < 5; $i++) {
                 echo "<section>";
