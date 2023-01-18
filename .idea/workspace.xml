@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d19661-d521-447c-9c6c-1cb0d1475497" name="Changes" comment="lol" />
+    <list default="true" id="d8d19661-d521-447c-9c6c-1cb0d1475497" name="Changes" comment="t">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +53,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\wasd1\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d8d19661-d521-447c-9c6c-1cb0d1475497" name="Changes" comment="" />
@@ -64,7 +69,7 @@
       <workItem from="1674025591994" duration="355000" />
       <workItem from="1674025975691" duration="774000" />
       <workItem from="1674026774874" duration="155000" />
-      <workItem from="1674026958387" duration="3142000" />
+      <workItem from="1674026958387" duration="4675000" />
     </task>
     <task id="LOCAL-00001" summary="lol">
       <created>1666175157340</created>
@@ -87,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666268080134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="t">
+      <created>1674031185345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674031185345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="lol" />
+    <MESSAGE value="t" />
+    <option name="LAST_COMMIT_MESSAGE" value="t" />
   </component>
 </project>
