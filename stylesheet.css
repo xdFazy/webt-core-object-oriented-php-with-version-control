@@ -1,0 +1,32 @@
+
+body {
+    height: auto; /* For 100% screen height */
+    width:  auto; /* For 100% screen width */
+    background-image: linear-gradient(#3b0808, #101010);
+    font-family: 'Raleway', sans-serif;
+}
+
+
+h1{
+    text-align: center;
+    color: #831515;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section{
+    margin: 10px;
+    background-color: #1f1f1f;
+    border: 2px solid #1a1a1a;
+    padding: 10px;
+    border-radius: 1.8em;
+    box-shadow: #333333;
+    color: #9a9a9a;
+}
+
